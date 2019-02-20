@@ -1,1 +1,7 @@
-/yamasyo/
+
+*.m4a
+*.ogg
+*.png
+**/img/tilesets/*.txt
+Develop/elements/
+**/yamasyo/
