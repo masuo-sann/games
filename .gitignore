@@ -3,5 +3,6 @@
 *.ogg
 *.png
 **/img/tilesets/*.txt
-Develop/elements/
+RPG_tkool/Develop/elements
+RPG_tkool/Distribution
 **/yamasyo/
