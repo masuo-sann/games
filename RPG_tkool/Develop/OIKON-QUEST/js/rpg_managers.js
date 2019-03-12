@@ -1102,10 +1102,10 @@ function AudioManager() {
 }
 
 AudioManager._masterVolume   = 1;   // (min: 0, max: 1)
-AudioManager._bgmVolume      = 100;
-AudioManager._bgsVolume      = 100;
-AudioManager._meVolume       = 100;
-AudioManager._seVolume       = 100;
+AudioManager._bgmVolume      = 10;
+AudioManager._bgsVolume      = 10;
+AudioManager._meVolume       = 10;
+AudioManager._seVolume       = 10;  // masuo-sann 100 → 10
 AudioManager._currentBgm     = null;
 AudioManager._currentBgs     = null;
 AudioManager._bgmBuffer      = null;

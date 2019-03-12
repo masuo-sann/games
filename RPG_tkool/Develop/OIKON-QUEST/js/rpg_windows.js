@@ -2761,7 +2761,7 @@ Window_Options.prototype.cursorLeft = function(wrap) {
 };
 
 Window_Options.prototype.volumeOffset = function() {
-    return 20;
+    return 10;  // masuo-sann
 };
 
 Window_Options.prototype.changeValue = function(symbol, value) {
